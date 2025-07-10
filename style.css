@@ -31,7 +31,6 @@ input[type="button"]{
 .banner-button{
     margin-left: 600px;
     margin-top: 28px;
-    
 }
 .bgc-color{
     border-radius: 5px;
@@ -44,4 +43,27 @@ input[type="button"]{
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
+}
+.action-title{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+.action-description{
+    font-size: 24px;
+    color: #747381;
+}
+.action-button{
+     height: 42px;
+     width: 229px;
+     padding: 5px;
+}
+.action-section{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 100px 0px 100px;
+    
+}
+.action-1{
+    width: 500px;
 }
