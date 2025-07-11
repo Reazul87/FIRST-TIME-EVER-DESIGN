@@ -2,6 +2,9 @@ header{
  margin-bottom: 200px;
  /* background-image: url(/docs/Assets/Frame\ 27158.png); */
 }
+main{
+    background-color: #D6DDED;
+}
 .Navbar-Section{
     display: flex;
     justify-content: space-between;
@@ -97,4 +100,69 @@ input[type="button"]{
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
+}
+.touch-title{
+    font-size: 97px;
+    font-weight: bold;
+    color: #000000;
+}
+.contact-section{
+    gap: 25px;
+}
+.touch-section{
+    margin: 71px 150px;
+    display: flex;
+    justify-content: space-around;
+    gap: 100px;
+}
+.padding-range{
+    padding: 20px 100px 20px 32px;
+}
+.Form-sec{
+    display: block;
+    margin: 10px;
+}
+.padding-range-2{
+    padding: 20px 40px 20px 32px;
+}
+.touch-button{
+    width: 310px;
+    border-radius: 5px;
+    font-size: 10px;
+    height: 40px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.footer-logo-section{
+    text-align: center; 
+    color: #FFFFFF;
+    padding-bottom: 50px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.logo-section{
+    font-size: 100px;
+    color: #4E47FF;
+    font-weight: 600;
+    height: 40px;
+    padding-top: 0px;
+}
+.logo-section-anchor{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
+.logo-section-description{
+    color: #8987A1;
+    padding-top: 1px;
+}
+.logo-section-anchor a{
+    padding-top: 1px;
+    text-align: center;
+    text-decoration: none;
+    color: #8987A1;
+}
+.after-logo{
+    gap: 1px;
+    margin-top: 1px;
 }
