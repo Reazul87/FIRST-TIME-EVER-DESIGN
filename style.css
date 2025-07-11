@@ -1,227 +1,200 @@
  /* FIRST TIME EVER DESIGN <> FIRST TIME EVER DESIGN BY "MD. REAZUL HASAN" */
- body {
+body {
      margin: 0px;
      padding: 0px;
  }
-
- header {
+header {
      padding-bottom: 100px;
      background-image: url(/FIRST-TIME-EVER-DESIGN/Assets/Hero-bg.png);
  }
-
- .logo-1-section {
+.logo-1-section {
      padding-left: 100px;
      border: none;
      font-size: 34px;
      color: #4E47FF;
      font-weight: 500;
  }
-
- main {
+main {
      background-color: #D6DDED;
      margin: 0px;
  }
-
- .Navbar-Section {
+.Navbar-Section {
      display: flex;
      justify-content: space-between;
      padding: 50px;
      /* margin: 50px 0px 10px; */
  }
-
- .nav-button {
+.nav-button {
      margin-right: 100px;
      border: none;
      height: 48px;
      width: 100px;
  }
-
- .banner-title {
-     text-align: center;
-     font-size: 65px;
-     margin-left: 200px;
-     font-weight: bold;
-     color: #252432;
-     height: 100px;
-     width: 905px;
+.banner-title {
+    text-align: center;
+    font-size: 65px;
+    margin-left: 200px;
+    font-weight: bold;
+    color: #252432;
+    height: 100px;
+    width: 905px;
  }
-
- .banner-button {
-     margin-left: 570px;
-     margin-top: 28px;
-     width: 174px;
-     height: 48px;
-     border: none;
+.banner-button {
+    margin-left: 570px;
+    margin-top: 28px;
+    width: 174px;
+    height: 48px;
+    border: none;
  }
-
- .bgc-color {
-     border-radius: 5px;
-     color: #FFFFFF;
-     background-color: #4E47FF;
+.bgc-color {
+    border-radius: 5px;
+    color: #FFFFFF;
+    background-color: #4E47FF;
  }
-
  .raleway-font {
-     font-family: "Raleway", sans-serif;
-     font-optical-sizing: auto;
-     font-weight: 500;
-     font-style: normal;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
  }
-
  .action-title {
-     font-size: 42px;
-     font-weight: bold;
-     color: #252432;
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
  }
-
  .action-subtitle {
-     font-size: 24px;
-     color: #747381;
+    font-size: 24px;
+    color: #747381;
  }
-
  .action-button {
-     height: 42px;
-     width: 229px;
-     padding: 5px;
-     border: none;
-
+    height: 42px;
+    width: 229px;
+    padding: 5px;
+    border: none;
  }
-
  .action-section {
-     display: flex;
-     justify-content: space-between;
-     margin: 0px 100px 100px 100px;
-     padding-top: 100px;
-
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 100px 100px 100px;
+    padding-top: 100px;
  }
-
  .action-1 {
-     width: 500px;
+    width: 500px;
  }
-
- .user-inter {
-     display: flex;
-     justify-content: space-around;
-
+.user-inter {
+    display: flex;
+    justify-content: space-around;
  }
-
- .Productive-User-Section {
-     text-align: center;
-     background-color: #4d4aec2c;
-     padding: 50px 80px;
-     margin: 110px;
+.Productive-User-Section {
+    border-radius: 24px;
+    text-align: center;
+    background-color: #4d4aec2c;
+    padding: 50px 80px;
+    margin: 110px;
+}
+.user-count {
+    justify-content: space-around;
+    color: #4E47FF;
+    font-weight: bold;
+    font-size: 80px;
+    width: 150px;
+    height: 95;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 2px;
  }
-
- .user-count {
-     justify-content: space-around;
-     color: #4E47FF;
-     font-weight: bold;
-     font-size: 80px;
-     width: 150px;
-     height: 95;
-     text-align: center;
-     margin-top: 20px;
+.pusec-title{
+    font-weight: bold;
+    font-size: 38px;
+}
+.inter-user {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
  }
-
- .inter-user {
-     font-family: "Inter", sans-serif;
-     font-optical-sizing: auto;
-     font-weight: 700;
-     font-style: normal;
+.touch-title {
+    font-size: 97px;
+    font-weight: bold;
+    color: #000000;
  }
-
- .touch-title {
-     font-size: 97px;
-     font-weight: bold;
-     color: #000000;
- }
-
- .contact-section {
+.contact-section {
      gap: 25px;
  }
-
- .touch-section {
+.touch-section {
      margin: 71px 150px;
      display: flex;
      justify-content: space-around;
      gap: 100px;
  }
-
- .padding-range {
-     padding: 20px 100px 20px 32px;
+.padding-range {
+    padding: 20px 100px 20px 32px;
+    border: none;
+    border-radius: 5px;
  }
-
- .Form-sec {
-     display: block;
-     margin: 10px;
+.Form-sec {
+    display: block;
+    margin: 10px;
  }
-
- .padding-range-2 {
-     padding: 20px 40px 20px 32px;
+.padding-range-2 {
+    padding: 20px 40px 20px 32px;
+    border: none;
+    border-radius: 5px;
  }
-
- .touch-button {
-     border: none;
-     width: 310px;
-     border-radius: 5px;
-     font-size: 10px;
-     height: 40px;
-     margin-left: 10px;
-     font-weight: bold;
+.touch-button {
+    border: none;
+    width: 310px;
+    border-radius: 5px;
+    font-size: 10px;
+    height: 40px;
+    margin-left: 10px;
+    font-weight: bold;
  }
-
- .footer-logo-section {
+.footer-logo-section {
      text-align: center;
      color: #FFFFFF;
      padding-bottom: 50px;
      padding-left: 400px;
      padding-right: 400px;
  }
-
- .logo-section {
+.logo-section {
      font-size: 100px;
      color: #4E47FF;
      font-weight: 600;
      height: 40px;
      padding-top: 0px;
  }
-
- .logo-section-anchor {
+.logo-section-anchor {
      display: flex;
      justify-content: space-evenly;
      text-decoration: none;
  }
-
- .logo-section-description {
+.logo-section-description {
      color: #8987A1;
      padding-top: 1px;
  }
-
- .logo-section-anchor a {
+.logo-section-anchor a {
      padding-top: 1px;
      text-align: center;
      text-decoration: none;
      color: #8987A1;
  }
-
- .after-logo {
+.after-logo {
      gap: 1px;
      margin-top: 1px;
  }
-
- .title-heading {
+.title-heading {
      text-align: center;
      font-weight: 700;
      font-size: 42px;
  }
-
- .Feedback-Section {
+.Feedback-Section {
      display: flex;
      justify-content: space-evenly;
      margin-left: 100px;
      margin-right: 100px;
  }
-
- .Feedback-user {
+.Feedback-user {
      gap: 20px;
      padding: 20px;
      background-color: #F2EDED;
@@ -229,61 +202,51 @@
      margin-left: 10px;
      margin-right: 10px;
  }
-
- .fb-user-subtitle {
+.fb-user-subtitle {
      color: #1e1e1eb6;
      font-size: 15px;
  }
-
- small {
+small {
      color: #757575;
      display: block;
 
      margin-left: 20px;
  }
-
- #Date {
+#Date {
      color: #b3b3b3;
      gap: 20px;
      margin-top: 5px;
  }
-
- .image-container {
+.image-container {
      display: flex;
      margin-top: 10px;
  }
-
- .button-1:hover {
+.button-1:hover {
      background-color: greenyellow;
      color: #000;
      height: 48px;
  }
-
- .button-2:hover {
+.button-2:hover {
      background-color: greenyellow;
      color: #000;
      height: 48px;
  }
-
- .button-3:hover {
+.button-3:hover {
      background-color: greenyellow;
      color: #000;
      height: 42px;
  }
-
- .button-4:hover {
+.button-4:hover {
      background-color: greenyellow;
      color: #000;
      height: 48px;
  }
-
- .button-5:hover {
+.button-5:hover {
      background-color: greenyellow;
      color: #000;
-     height: 40px;
- }
-
- .focus-section {
+     height: 40px; 
+    }
+.focus-section {
      max-width: 1140px;
      background-color: #FFFFFF;
      text-align: center;
@@ -291,19 +254,16 @@
      padding: 71px 150px;
      border-radius: 14px;
  }
-
- .focus-heading {
+.focus-heading {
      font-weight: bold;
      font-size: 50px;
      color: #000000;
      margin-bottom: 1px;
  }
-
- .focus-description {
+.focus-description {
      color: #00000050;
  }
-
- .focus-button {
+.focus-button {
      font-size: 16px;
      border: none;
      background-color: #4E47FF;
@@ -312,11 +272,12 @@
      border-radius: 10px;
      margin-bottom: 20px;
  }
-
- .focus-img img {
+.focus-img img {
      border-radius: 48px;
  }
-
- .focus-container {
+.focus-container {
      margin: 100px;
- }
+}
+.action-2 img{
+    border-radius: 48px;
+}
