@@ -210,3 +210,28 @@ small{
     display: flex;
     margin-top: 10px;
 }
+.button-1:hover{
+    background-color: greenyellow;
+    color: #000;
+    height: 48px;
+}
+.button-2:hover{
+    background-color: greenyellow;
+    color: #000;
+    height: 48px;
+}
+.button-3:hover{
+    background-color: greenyellow;
+    color: #000;
+    height: 42px;
+}
+.button-4:hover{
+    background-color: greenyellow;
+    color: #000;
+    height: 48px;
+}
+.button-5:hover{
+    background-color: greenyellow;
+    color: #000;
+    height: 40px;
+}
