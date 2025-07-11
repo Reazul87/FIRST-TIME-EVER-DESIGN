@@ -2,6 +2,13 @@ header{
  margin-bottom: 200px;
  /* background-image: url(/docs/Assets/Frame\ 27158.png); */
 }
+.logo-1-section{
+     margin-left: 100px;
+    border: none;
+    font-size: 34px;
+    color: #4E47FF;
+    font-weight: 500;
+}
 main{
     background-color: #D6DDED;
 }
@@ -11,13 +18,8 @@ main{
     margin: 50px;
     /* margin: 50px 0px 10px; */
 }
-.Navbar-Section img{
-    height: 26px;
-    margin-left: 100px;
-}
-input[type="button"]{
+.nav-button{
     margin-right: 100px;
-    height: 35px;
     border: none;
     height: 48px;
     width: 100px;
@@ -36,6 +38,7 @@ input[type="button"]{
     margin-top: 28px;
     width: 174px;
     height: 48px;
+    border: none;
 }
 .bgc-color{
     border-radius: 5px;
@@ -59,9 +62,11 @@ input[type="button"]{
     color: #747381;
 }
 .action-button{
-     height: 42px;
-     width: 229px;
-     padding: 5px;
+    height: 42px;
+    width: 229px;
+    padding: 5px;
+    border: none;
+
 }
 .action-section{
     display: flex;
@@ -126,6 +131,7 @@ input[type="button"]{
     padding: 20px 40px 20px 32px;
 }
 .touch-button{
+    border: none;
     width: 310px;
     border-radius: 5px;
     font-size: 10px;
