@@ -237,3 +237,21 @@ small{
     height: 40px;
 }
 
+.focus-section{
+    max-width: 1140px;
+    background-color: #FFFFFF;
+}
+.focus-heading{
+    font-weight: bold;
+    font-size: 50px;
+    color: #000000;
+}
+.focus-description{
+    color: #00000050;
+}
+.focus-button{
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 12px 36px;
+    border-radius: 10px;
+}
